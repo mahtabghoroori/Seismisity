@@ -1,1 +1,1 @@
-# Seismisity
+# Seismicity
